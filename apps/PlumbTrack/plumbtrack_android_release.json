@@ -2,10 +2,10 @@
   "schema_version": 1,
   "application": "PlumbTrack Pro Android",
   "package_name": "com.henry.plumbtrack",
-  "version_name": "4.0.2",
-  "version_code": 97,
-  "apk_filename": "PlumbTrack_Pro_Android_v4_0_2.apk",
-  "apk_url": "https://github.com/HenryG125/henry-app-releases/releases/download/v4.0.2/PlumbTrack_Pro_Android_v4_0_2.apk",
-  "sha256": "8710757989c34b218ff8166b24232c621ff6070c9f8eba769075ac700d89eae6",
+  "version_name": "4.0.3",
+  "version_code": 98,
+  "apk_filename": "PlumbTrack_Pro_Android_v4_0_3.apk",
+  "apk_url": "https://github.com/HenryG125/henry-app-releases/releases/download/v4.0.3/PlumbTrack_Pro_Android_v4_0_3.apk",
+  "sha256": "48f4092ed86103802df1ffb469925e039808fd16f62bdc66bedaa8ccaa20892f",
   "release_notes": ""
 }
