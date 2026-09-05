@@ -10,11 +10,11 @@ Official verified release channel for PlumbTrack Pro Android.
 <!-- HSR_CURRENT_RELEASE_START -->
 ## Current release
 
-- Version: **v4.0.12**
-- Version code: **107**
+- Version: **v4.0.13**
+- Version code: **108**
 - APK: [PlumbTrack_Pro.apk](https://github.com/HenryG125/henry-app-releases/releases/latest/download/PlumbTrack_Pro.apk)
-- Verified source package: `PlumbTrack_Pro_Android_v4_0_12.apk`
-- SHA-256: `a3af30746c2e5142a8a557b01578bcd044f21bea5e90b0937f916296637bbff4`
+- Verified source package: `PlumbTrack_Pro_Android_v4_0_13.apk`
+- SHA-256: `ec73c4d14bc90707d5e5de7ee3afb774c498dcb572e8237d1ed21c2c5c8d721c`
 - Production signer: **verified**
-- Legacy to production signing lineage: **verified**
+- Signing model: **permanent one-key**; legacy lineage: **not required**
 <!-- HSR_CURRENT_RELEASE_END -->
