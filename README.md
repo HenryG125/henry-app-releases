@@ -17,4 +17,5 @@ Official verified release channel for PlumbTrack Pro Android.
 - SHA-256: `a28a8f6576a07752ae6547ab7b051f8b84b0b2cdde80d16d7bffff4c30f7671a`
 - Production signer: **verified**
 - Signing model: **permanent one-key**; legacy lineage: **not required**
+- GitHub release tag: **cryptographically signed and verified**
 <!-- HSR_CURRENT_RELEASE_END -->
